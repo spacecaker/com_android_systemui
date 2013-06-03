@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Γραμμή κατάστασης</string>
+    <string name="status_bar_clear_all_button">Διαγραφή</string>
+    <string name="status_bar_no_notifications_title">Δεν υπάρχουν ειδοποιήσεις</string>
+    <string name="status_bar_ongoing_events_title">Σε εξέλιξη</string>
+    <string name="status_bar_latest_events_title">Ειδοποιήσεις</string>
+    <string name="battery_low_title">Συνδέστε το φορτιστή</string>
+    <string name="battery_low_subtitle">Η στάθμη της μπαταρίας μειώνεται:</string>
+    <string name="battery_low_percent_format">Απομένει %1$d%% ή λιγότερο</string>
+    <string name="battery_low_why">Χρήση μπατ.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Ήχος</string>
+    <string name="quickpanel_sound_vibration_text">"Ήχος
+Δόνηση"</string>
+    <string name="quickpanel_silent_text">Αθόρυβο</string>
+    <string name="quickpanel_vibration_text">Δόνηση</string>
+    <string name="quickpanel_rotation_text">"Αυτόμ.
+περιστρ"</string>
+    <string name="quickpanel_error_text">Σφάλμα</string>
+    <string name="capital_on">Ενεργό</string>
+    <string name="capital_off">Ανενεργό</string>
+    <string name="lowbattery">Χαμηλή στάθμη μπαταρίας. Φορτίστε σύντομα το τηλέφωνο για να συνεχίσετε τη χρήση του</string>
+    <string name="critical_lowbattery">Πολύ χαμηλή στάθμη μπαταρίας. Συνδέστε το τηλέφωνο άμεσα για να συνεχίσετε τη χρήση του</string>
+    <string name="dischargetitle">Πληροφορίες</string>
+    <string name="dischargebattery">Η φόρτιση διακόπηκε. Η θερμοκρ. της μπατ. είναι πολύ υψηλή ή πολύ χαμηλή</string>
+    <string name="fullchargetitle">Πληροφορίες</string>
+    <string name="fullchargebattery">"Μπαταρία πλήρως φορτισμένη.
+Αποσύνδεση φορτιστή"</string>
+    <string name="quickpanel_dc_text">Δεδομένα</string>
+    <string name="quickpanel_dc_on">Γίνεται ενεργοποίηση</string>
+    <string name="quickpanel_dc_off">Γίνεται απενεργοποίηση</string>
+</resources>
